@@ -28,6 +28,6 @@ L’objectif est d’apprendre progressivement à reconnaître les notes et à l
 ---
 ## 📋 Trello du projet
 Le tableau Trello utilisé pour organiser le développement :  
-👉 **https://trello.com/invite/b/691d86ef9c200e2cb05f3ffd/ATTI91e074b1be4e4054342ef65032aa1b7c6C493B2D/neckmaster**
+👉 **[Lien vers le Trello](https://trello.com/invite/b/691d86ef9c200e2cb05f3ffd/ATTI91e074b1be4e4054342ef65032aa1b7c6C493B2D/neckmaster)**
 
 ---
